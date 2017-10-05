@@ -6,7 +6,9 @@ def cal(num1, num2):
 def summation(n1, n2):
 	return n1 + n2
 
-    def substraction(n1,n2):
-        return n1 - n2
+def substraction(n1,n2):
+    return n1 - n2
+    
+    print("love")
 
     cal(int(input)),int(input())
